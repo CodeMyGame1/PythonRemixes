@@ -1,3 +1,5 @@
+#Original code remixed from: aaditisawesome
+#User: https://github.com/aaditisawesome 
 import time
 import turtle
 import random
