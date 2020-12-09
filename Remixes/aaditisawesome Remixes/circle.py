@@ -50,8 +50,8 @@ audit.speed(0)
 audit.width(5)
 audit.color(audit.color1)
 if audit.color1 == 'white':
-    audit.bgcolor("black")
+    turtle.bgcolor("black")
 else:
-    audit.bgcolor("white")
+    turtle.bgcolor("white")
 audit.pattern()
 audit.outro()
