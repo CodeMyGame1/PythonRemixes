@@ -5,9 +5,7 @@ class ProgressBar():
     def __init__(self):
         self.a = turtle.Turtle()
         self.intro = turtle.Turtle()
-        self.length = 0
-
-    length = 20
+        self.length = 20
     def draw_bar(self):
         for x in range(2):
             self.a.forward(200)
